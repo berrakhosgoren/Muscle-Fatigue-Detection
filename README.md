@@ -1,4 +1,4 @@
-# Muscle-Fatigue-Detection
+# Muscle Fatigue Detection
 
 **Author:** Berrak Hoşgören
 
