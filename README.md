@@ -1,5 +1,7 @@
 # Muscle-Fatigue-Detection
 
+**Author:** Berrak Hoşgören
+
 The project aims to process electromyography (EMG) signals recorded from one human subject to identify signs of muscle fatigue. It involves implementing feature extraction methods and two different classifiers (linear and deep learning model) and evaluating the performance of the classifiers using metrics such as ROC curve and confusion matrix.
 
 ## Code Structure
@@ -18,10 +20,10 @@ Project can be executed by running the 'main.py' script.
 
 ## Classification Models
 
-### Linear Model: 
+**Linear Model:**
 Logistic Regression
 
-### Deep Learning Model:
+**Deep Learning Model:**
 Recurrent Neural Network (RNN)
 
 
