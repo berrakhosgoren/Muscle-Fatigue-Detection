@@ -6,11 +6,11 @@ The project aims to process electromyography (EMG) signals recorded from one hum
 
 The project's code is organized as follows:
 
-- **main.py/**: Main entry point for the project, orchestrating both linear and deep learning models.
-- **utils.py/**: Helper functions used across the project.
-- **preprocessing.py/**: Script for importing and preprocessing the EMG signals.
-- **feature_engineering.py/**: Script for extracting features from the preprocessed signals.
-- **RNN.py/**: Script containing the implementation of the recurrent neural network (RNN) classifier.
+- `main.py`: Main entry point for the project, orchestrating both linear and deep learning models.
+- `utils.py`: Helper functions used across the project.
+- `preprocessing.py`: Script for importing and preprocessing the EMG signals.
+- `feature_engineering.py`: Script for extracting features from the preprocessed signals.
+- `RNN.py`: Script containing the implementation of the recurrent neural network (RNN) classifier.
 
 ## Usage
 
